@@ -2,6 +2,11 @@
   "name": "me",
   "type": "module",
   "version": "0.0.1",
+  "license": "MIT",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/BabelDev0/me.git"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
